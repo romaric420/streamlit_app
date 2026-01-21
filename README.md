@@ -142,6 +142,5 @@ Interface interactive pour prédire la survie d'un passager.
 
 Romaric - 2026
 
-## Licence
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+
